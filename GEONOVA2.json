@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#2f40c6",
+          "marker-size": "medium",
+          "marker-symbol": "warehouse",
+          "name": "Ava"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.5750274,
+            45.4344413
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            50.47119140624999,
+            58.228596132481435
+          ]
+        }
+      }
+    ]
+  }
