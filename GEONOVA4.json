@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#0bf97e",
+          "marker-size": "medium",
+          "marker-symbol": "warehouse",
+          "name": "Avagyan",
+          "Size": 22
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.5750274,
+            45.4344413
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "slaughterhouse"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.447540283203125,
+            45.689873543553325
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                39.210205078125,
+                49.1314084139986
+              ],
+              [
+                39.210205078125,
+                49.1314084139986
+              ],
+              [
+                39.210205078125,
+                49.1314084139986
+              ],
+              [
+                39.210205078125,
+                49.1314084139986
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
